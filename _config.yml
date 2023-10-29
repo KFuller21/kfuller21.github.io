@@ -31,7 +31,7 @@ additional_links:
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 # Define color scheme; dark/light/default
-color_scheme: dark
+color_scheme: light
 
 # About Section
 about_title: About Me
@@ -39,14 +39,14 @@ about_profile_image: images/profile.jpg
 about_content: |
   Hi, I'm Kristen, a dedicated Cloud Engineer with a passion for automation and a knack for optimizing cloud operations.
 
-  I am most skilled in: AWS and Eating Wings
+  I am most skilled in: <mark>AWS</mark> and <mark>eating wings</mark>
 
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
 
   <mark>My main skills include:</mark>
   Cloud Technologies (AWS GovCloud) | DevOps Methodologies | Automation Scalability and High-Performance Solutions
-  Linux | HTML/SCSS/Jekyll | PowerShell | Bash | CI/CD | Configuration Management (GitHub) | IaC Tools (Terraform/CloudFormation)
-  Security & Compliance | Monitoring and Reporting | Software Development Life Cycle | <mark>The Best Teammate</mark>
+  Linux | HTML/SCSS/Jekyll | PowerShell | Bash | CI/CD | Configuration Management (GitHub) | Terraform/CloudFormation
+  Security & Compliance | Monitoring and Reporting | Software Development Life Cycle 
 
 # Website Content
 content:
@@ -58,6 +58,8 @@ content:
         link: govcio.com
         sub_title: Production Cloud Engineer
         caption: May 2023 - Present
+        quote: >
+          <mark>CERTIFICATIONS:</mark> AWS Solutions Architect Associate | AWS Certified Cloud Practitioner | CompTIA Security+ 
         description: |
           In my role as a Cloud Production Engineer, I've been at the forefront of driving innovation in cloud operations.
           
