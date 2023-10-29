@@ -35,11 +35,11 @@ color_scheme: dark
 
 # About Section
 about_title: About Me
-about_profile_image: images/avatar.jpg
+about_profile_image: images/profile.jpg
 about_content: |
   Hi, I'm Kristen, a dedicated Cloud Engineer with a passion for automation and a knack for optimizing cloud operations.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Wings</mark>
+  I am most skilled in: AWS and Eating Wings
 
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
 
