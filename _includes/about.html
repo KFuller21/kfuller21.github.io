@@ -1,0 +1,16 @@
+---
+layout: page
+title: About Me
+---
+
+<div class="container intro-container">
+  <h3>About Me</h3>
+  <div class="row clearfix">
+    <div class="col-xs-12 col-sm-4 col-md-3 no-print">
+      <img src="images/avatar.jpg" alt="Your Photo">
+    </div>
+    <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+      {{ site.about_content | strip | markdownify }}
+    </div>
+  </div>
+</div>

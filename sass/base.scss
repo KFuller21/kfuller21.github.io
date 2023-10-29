@@ -45,7 +45,7 @@ input,
 label,
 select {
   display: block;
-  font-family: "Helvetica Neue", "Helvetica", "Roboto", "Arial", sans-serif;
+  font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
   font-size: 1rem; }
 
 label {
@@ -148,7 +148,7 @@ html {
 
 body {
   background: #ffffff;
-  font-family: Roboto, sans-serif;
+  font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
   -webkit-font-smoothing: antialiased; }
 
 .center-text {
