@@ -45,9 +45,9 @@ about_content: | # this will include new lines to allow paragraphs
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
 
   My main skills include: 
-  <mark>Cloud Technologies (AWS GovCloud) DevOps Methodologies Automation Scalability and High-Performance Solutions
+  Cloud Technologies (AWS GovCloud) DevOps Methodologies Automation Scalability and High-Performance Solutions
   Linux HTML/SCSS/Ruby PowerShell Bash Git CI/CD Security & Compliance - >Troubleshooting
-  Configuration Management (GitHub) Monitoring and Reporting - IaC Tools (Terraform/CloudFormation)</mark>
+  Configuration Management (GitHub) Monitoring and Reporting - IaC Tools (Terraform/CloudFormation)
 
 content:
   - title: Projects # Title for the section
