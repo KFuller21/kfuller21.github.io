@@ -14,7 +14,7 @@ email: kristen.leigh.fuller@gmail.com
 website: https://www.kristenlfuller.com
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 github_username: kfuller21
@@ -44,9 +44,18 @@ about_content: |
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
 
   <mark>My main skills include:</mark>
-  Cloud Technologies (AWS GovCloud) | DevOps Methodologies | Automation Scalability and High-Performance Solutions
-  Linux | HTML/SCSS/Jekyll | PowerShell | Bash | CI/CD | Configuration Management (GitHub) | Terraform/CloudFormation
-  Security & Compliance | Monitoring and Reporting | Software Development Life Cycle 
+  Cloud Technologies (AWS GovCloud) | <mark>DevOps Methodologies</mark> | Automation Scalability and High-Performance Solutions
+  <mark>Linux</mark> | HTML/SCSS/Jekyll | <mark>PowerShell</mark> | Bash | <mark>CI/CD</mark> | Configuration Management (GitHub) | <mark>Terraform/CloudFormation</mark>
+  Security & Compliance | <mark>Monitoring and Reporting</mark> | Software Development Life Cycle 
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,bash,github,powershell,py,docker,css,html,linux,sass,vscode"/>
+
+  <mark>CERTIFICATIONS INCLUDE:</mark>
+  - AWS Solutions Architect Associate
+  - AWS Certified Cloud Practitioner
+  - CompTIA Security+ce
+  - Certified Scrum Master
+
 
 # Website Content
 content:
@@ -59,7 +68,6 @@ content:
         sub_title: Production Cloud Engineer
         caption: May 2023 - Present
         quote: >
-          <mark>CERTIFICATIONS:</mark> AWS Solutions Architect Associate | AWS Certified Cloud Practitioner | CompTIA Security+ 
         description: |
           In my role as a Cloud Production Engineer, I've been at the forefront of driving innovation in cloud operations.
           
