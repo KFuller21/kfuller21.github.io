@@ -38,11 +38,16 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Kristen, a dedicated Cloud Engineer with a passion for automation and a knack for optimizing cloud operations.</p>
+  Hi, I'm Kristen, a dedicated Cloud Engineer with a passion for automation and a knack for optimizing cloud operations.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Wings</mark>
 
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
+
+  My main skills include: 
+  <mark>Cloud Technologies (AWS GovCloud) DevOps Methodologies Automation Scalability and High-Performance Solutions
+  Linux HTML/SCSS/Ruby PowerShell Bash Git CI/CD Security & Compliance - >Troubleshooting
+  Configuration Management (GitHub) Monitoring and Reporting - IaC Tools (Terraform/CloudFormation)</mark>
 
 content:
   - title: Projects # Title for the section
