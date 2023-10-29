@@ -114,6 +114,3 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-last-modified-at
- - jekyll-github-metadata
- - jekyll-include-cache
