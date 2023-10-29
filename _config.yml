@@ -106,7 +106,7 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%m/%d/%y" # Uses ruby's time format
 
 # Build settings
-remote_theme: KFuller21/kfuller21.github.io
+remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
