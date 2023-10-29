@@ -1,15 +1,17 @@
-# Site
+# GitHub Repository Site
 repository: KFuller21/kfuller21.github.io
-favicon: images/favicon.ico
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: images/favicon.ico
 
 # Content configuration version
 version: 1.0.0
 
-# Personal info
+# Personal Info
 name: Kristen Fuller
 title: Cloud Engineer
 email: kristen.leigh.fuller@gmail.com
-website: https://kfuller21.github.io/
+website: https://www.kristenlfuller.com
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -17,37 +19,32 @@ darkmode: true
 # Social links
 github_username: kfuller21
 linkedin_username: kristenlfuller
-
-
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Resume Portfolio
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+  url: https://www.kristenlfuller.com
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+# ga_tracking: UA-2709176-10
+# ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 
 # About Section
-# about_title: About Me
+about_title: About Me
 about_profile_image: images/avatar.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi, I'm Kristen, a dedicated Cloud Engineer with a passion for automation and a knack for optimizing cloud operations.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Wings</mark>
 
   Life's too short to manually deploy clouds. Let's automate and <mark>'git'</mark> to the good stuff!
 
-  My main skills include: 
-  Cloud Technologies (AWS GovCloud) DevOps Methodologies Automation Scalability and High-Performance Solutions
-  Linux HTML/SCSS/Ruby PowerShell Bash Git CI/CD Security & Compliance - >Troubleshooting
-  Configuration Management (GitHub) Monitoring and Reporting - IaC Tools (Terraform/CloudFormation)
+  <mark>My main skills include:</mark>
+  Cloud Technologies (AWS GovCloud) | DevOps Methodologies | Automation Scalability and High-Performance Solutions
+  Linux | HTML/SCSS/Jekyll | PowerShell | Bash | CI/CD | Configuration Management (GitHub) | IaC Tools (Terraform/CloudFormation)
+  Security & Compliance | Monitoring and Reporting | Software Development Life Cycle | <mark>The Best Teammate</mark>
 
 content:
   - title: Projects # Title for the section
@@ -109,9 +106,9 @@ content:
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
+# Footer contents [footer_custom.html]
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%m/%d/%y" # Uses ruby's time format
 
 # Build settings
 remote_theme: sproogen/resume-theme
