@@ -2,7 +2,7 @@
 repository: KFuller21/kfuller21.github.io
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: images/favicon.ico
+favicon_ico: https://www.flaticon.com/free-icon/tracking_2037358?term=favicon&page=1&position=4&origin=tag&related_id=2037358
 
 # Content configuration version
 version: 2
@@ -18,7 +18,7 @@ darkmode: never
 
 # Social links
 github_username: kfuller21
-linkedin_username: kristenlfuller
+# linkedin_username: kristenlfuller
 # Additional icon links
 additional_links:
 - title: Resume Portfolio
@@ -60,7 +60,7 @@ about_content: |
 
 # Website Content
 content:
-  - title: Experience 
+  - title: Experience
     layout: list
     content:
       - layout: left
@@ -71,12 +71,33 @@ content:
         quote: >
         description: |
           In my role as a Cloud Production Engineer, I've been at the forefront of driving innovation in cloud operations.
-          
+
           I've collaborated with cross-functional teams, fostering DevOps methodologies and enhancing communication and integration throughout the application lifecycle. 
-          
+
           Supporting AWS GovCloud environments, I've enabled efficient configuration and integrations for the Appian SaaS platform, all while ensuring the continuous availability, durability, and scalability of cloud operations.
-  
-  - title: Education 
+      - layout: left
+        title: GovCIO
+        link: govcio.com
+        sub_title: Help Desk Supervisor
+        caption: August 2020 - May 2023
+        quote: >
+        description: |
+          As a Help Desk Supervisor, I delivered technical support, ensuring seamless resolution of user issues.
+
+          My role involved overseeing daily operations, implementing efficient workflows, and fostering a collaborative environment.
+
+          I combined technical expertise with strong leadership which enhanced overall team performance.
+
+          Note: Any job history prior this role is nonapplicable to my tech journey. You may view my resume pdf for full employment history.
+      - layout: left
+        title: United States Air Force
+        link: airforce.com
+        sub_title: Medical Technician/Licensed EMT
+        caption: August 2012 - February 2018
+        quote: >
+        description: |
+          Honorably discharged from military service.
+  - title: Education
     layout: list
     content:
       - layout: left
@@ -91,9 +112,9 @@ content:
       - Soccer
       - Wine Tasting
       - Hanging out with my Family
-      - Trying new restaurants 
+      - Trying new restaurants
 
-  #    Look at this cool image  
+  #    Look at this cool image
   #    ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
   - title: Projects # Title for the section
