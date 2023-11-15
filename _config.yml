@@ -2,7 +2,7 @@
 repository: KFuller21/kfuller21.github.io
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: https://www.flaticon.com/free-icon/tracking_2037358?term=favicon&page=1&position=4&origin=tag&related_id=2037358
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
