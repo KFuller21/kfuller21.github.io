@@ -2,7 +2,7 @@
 repository: KFuller21/kfuller21.github.io
 
 # Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: images\favicon.ico
+favicon_ico: images/favicon.ico
 
 # Content configuration version
 version: 2
