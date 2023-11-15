@@ -1,0 +1,16 @@
+{
+  "name": "kfuller21.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://kfuller21.github.io",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "Kristen Fuller <kristen.leigh.fuller@gmail.com> (https://kfuller21.github.io",
+  "license": "ISC"
+}
